@@ -12,19 +12,34 @@ The goal is simple: catch avoidable release problems earlier, turn checks into c
 
 A platform-neutral 68-check release gate with a printable PDF and interactive XLSX status tracker.
 
-**GitHub release:** available at public launch.
+**GitHub:**  
+`https://github.com/Vaqiron/release-readiness-lite`
+
+**Payhip:**  
+`https://payhip.com/b/PUfSq`
+
+**itch.io:**  
+`https://vaqiron.itch.io/vaqiron-release-readiness-lite`
 
 ### VAQIRON Release Evidence — $15
 
 Create structured release sessions, record PASS / WARN / FAIL findings and export JSON, CSV, HTML and print-ready evidence.
 
-**Purchase links:** added at launch.
+**Payhip:**  
+`https://payhip.com/b/46s9q`
+
+**itch.io:**  
+`https://vaqiron.itch.io/vaqiron-release-evidence`
 
 ### VAQIRON Build Preflight — $19
 
 Audit a local build folder, calculate SHA-256, flag common packaging risks and export reports, manifests and P3-compatible evidence.
 
-**Purchase links:** added at launch.
+**Payhip:**  
+`https://payhip.com/b/s231D`
+
+**itch.io:**  
+`https://vaqiron.itch.io/vaqiron-build-preflight`
 
 ## Principles
 
